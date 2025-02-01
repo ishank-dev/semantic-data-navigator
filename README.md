@@ -3,6 +3,9 @@
 ## Overview
 The **Semantic Data Navigator** is a Jupyter Notebook designed to process and analyze textual data using advanced natural language processing (NLP) techniques. It leverages OpenAI's embeddings and LangChain to load, split, and semantically search documents while providing visualization capabilities with t-SNE and Plotly.
 
+![image](https://github.com/user-attachments/assets/a6c83cfc-9664-4a32-92a9-6b337ef3ba9c)
+
+
 ## Features
 - Load and preprocess textual data from a directory.
 - Generate embeddings using OpenAI's `text-embedding-ada-002` model.
